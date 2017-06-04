@@ -14,7 +14,7 @@ the struggle is real
 　　　 /　 ヽ　　 ﾉ   
 　 　 │　　|　|　|   
 　／￣|　　 |　|　|  
-　| (￣ヽ＿_ヽ_)__) 
-  ＼二つ
+　| (￣ヽ＿_ヽ_)__)
+  ＼二つ                  
 
 <a style="display: inline-block; border: 0; text-decoration: none;" href="http://vsco.co/cxrro"><img style="width: 10px; height: 10px; margin: 0px;" src="http://assets.vsco.co/assets/images/assets/Logo_black_32.png" alt="VSCO Logo" /></a> 
