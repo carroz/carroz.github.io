@@ -11,7 +11,7 @@ window.onload = () => {
 	l1.setAttribute("data-content", "<h1>about</h1>hi! i'm carro and i'm a junior at northwestern studying communication and computer science. <br><br>i'm also pursuing the certificate in human-computer interaction</a> and the media arts and game design module.</a> <br><br>i'm interested in educational games, data visualization, and continental philosophy.<br><br>in my free time, i enjoy making and solving crossword puzzles and playing strategy games. i'm ranked top 0.2% in teamfight tactics.");
 
 	const l2 = document.querySelector("#l2");
-	l2.setAttribute("data-content", "<h1>resume</h1>sorry no gamers<br><a href='leagueoflegends.com'>view</a>");
+	l2.setAttribute("data-content", "<h1>resume</h1>sorry no gamers<br><a href='https://www.leagueoflegends.com/en-us/'>view</a>");
 
 	const l3 = document.querySelector("#l3");
 	l3.setAttribute("data-content", "<h1>recent fun stuff</h1>visited christkindlmarket<br><br>learned to bake brioche over thanksgiving break<br><br>spent ~4 months learning about gamecube controller modding and made a custom gcc for my partner<br><br>spent ~6 hours teaching myself advanced tableau");
