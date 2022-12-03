@@ -8,10 +8,10 @@ function randomSub() {
 
 window.onload = () => {
 	const l1 = document.querySelector("#l1");
-	l1.setAttribute("data-content", "<h1>about</h1>hi! i'm carolyn and i'm a junior at northwestern studying communication and computer science. <br><br>i'm also pursuing the certificate in human-computer interaction</a> and the media arts and game design module.</a> <br><br>i'm interested in educational games, data visualization, and continental philosophy.<br><br>in my free time, i enjoy making and solving crossword puzzles and playing strategy games. i'm ranked top 0.2% in teamfight tactics.");
+	l1.setAttribute("data-content", "<h1>about</h1>hi! i'm carro and i'm a junior at northwestern studying communication and computer science. <br><br>i'm also pursuing the certificate in human-computer interaction</a> and the media arts and game design module.</a> <br><br>i'm interested in educational games, data visualization, and continental philosophy.<br><br>in my free time, i enjoy making and solving crossword puzzles and playing strategy games. i'm ranked top 0.2% in teamfight tactics.");
 
 	const l2 = document.querySelector("#l2");
-	l2.setAttribute("data-content", "<h1>resume</h1>last updated dec 2022<br><a href='https://drive.google.com/file/d/14GFlCptTqRZT8a1rikGfvZTIgrqbaSa-/preview'>view</a>");
+	l2.setAttribute("data-content", "<h1>resume</h1>sorry no gamers<br><a href='leagueoflegends.com'>view</a>");
 
 	const l3 = document.querySelector("#l3");
 	l3.setAttribute("data-content", "<h1>recent fun stuff</h1>visited christkindlmarket<br><br>learned to bake brioche over thanksgiving break<br><br>spent ~4 months learning about gamecube controller modding and made a custom gcc for my partner<br><br>spent ~6 hours teaching myself advanced tableau");
@@ -26,13 +26,13 @@ window.onload = () => {
 	l6.setAttribute("data-content", "<h1>work</h1>i am in my productivity era<br><br><a href='https://arch.library.northwestern.edu/collections/707957731'>comm studies honors thesis<a><br><a href='https://advising.soc.northwestern.edu/academic_modules/media-arts-and-game-design/'>media arts and game design capstone<a><br><a href='https://wiki.communitydata.science/Ecology_of_Online_Communities/Community_rules_study'>cdsc rules study<a><br><a href='https://studio.knightlab.com/projects/live-streaming/'>knight lab livestreaming<a><br><a href='https://magic.gg/news/magic-30-tickets-and-events-details#Program'>wotc project management intern<a><br><a href='https://discord.gg/forensics'>competitive debate discord<a>");
 
 	const l7 = document.querySelector("#l7");
-	l7.setAttribute("data-content", "<h1>social</h1>haha content<br><br><a href='https://twitch.tv.carroh'>twitch<a><a href='https://are.na/carro'>are.na<a><a href='https://www.linkedin.com/in/czou/'>linkedin<a><a href='https://twitter.com/carrohno'>twitter<a><a href='https://carro.substack.com'>substack<a>");
+	l7.setAttribute("data-content", "<h1>social</h1>haha content<br><br><a href='https://twitch.tv.carroh'>twitch<a><a href='https://are.na/carro'>are.na<a><a href='https://twitter.com/carrohno'>twitter<a>");
 
 	const l8 = document.querySelector("#l8");
 	l8.setAttribute("data-content", "<h1>stuff i like</h1><br><br><a href='https://www.sunsama.com'>sunsama<a><a href='https://reboothq.substack.com'>reboot<a><a href='https://teamfighttactics.leagueoflegends.com'>tft<a><a href='https://www.twitch.tv/moonlimes'>moonlimes<a>");
 
 	const l9 = document.querySelector("#l9");
-	l9.setAttribute("data-content", "<h1>contact</h1>email: cqz@u.northwestern.edu<br>discord: carro#0001");
+	l9.setAttribute("data-content", "<h1>contact</h1>email: uwu@u.northwestern.edu<br>discord: carro#0001");
 
 	// Select all of the squares on the page
 	const squares = document.querySelectorAll('.square');
