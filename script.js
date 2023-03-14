@@ -20,16 +20,16 @@ window.onload = () => {
 	l4.setAttribute("data-content", "<h1>bun</h1><img src='https://i.imgur.com/G0f9JFF.gif' alt='animated image of the drawing tool in use. the user selects the brushes and draws the body, ears, and face of a cartoon bunny'><a href='https://bun.carro.dev'><br>view</a><br>a project for cs396: generative methods which uses p5js to make brushes for people to easily create bunnies (or other creatures). the project uses different techniques, including beginShape and endShape, delayed stacked shapes, randomly generated faces, and color / brush size pickers.");
 
 	const l5 = document.querySelector("#l5");
-	l5.setAttribute("data-content", "<h1>site</h1>the site you're on right now, created from scratch as an assignment for cs330: human-computer interaction without the use of any external frameworks / libraries<br><br>when you expand a content square, it'll move to the center of the grid and swap places with the square that was previously in the center. you can also click outside of the squares to see them all<br><br>you can also navigate this site without a mouse<br><br>shoutout to openai chat for debugging my code lol");
+	l5.setAttribute("data-content", "<h1>site</h1>the site you're on right now, created from scratch as an assignment for cs330: human-computer interaction without the use of any external frameworks / libraries<br><br>when you expand a content square, it'll move to the center of the grid and swap places with the square that was previously in the center. you can also click outside of the squares to see them all<br><br>you can also navigate this site without a mouse");
 
 	const l6 = document.querySelector("#l6");
-	l6.setAttribute("data-content", "<h1>work</h1>i am in my productivity era<br><br><a href='https://arch.library.northwestern.edu/collections/707957731'>comm studies honors thesis<a><br><a href='https://advising.soc.northwestern.edu/academic_modules/media-arts-and-game-design/'>media arts and game design capstone<a><br><a href='https://wiki.communitydata.science/Ecology_of_Online_Communities/Community_rules_study'>cdsc rules study<a><br><a href='https://studio.knightlab.com/projects/live-streaming/'>knight lab livestreaming<a><br><a href='https://magic.gg/news/magic-30-tickets-and-events-details#Program'>wotc project management intern<a>");
+	l6.setAttribute("data-content", "<h1>work</h1>things i'm doing now<br><br><a href='https://arch.library.northwestern.edu/collections/707957731'>comm studies honors thesis<a><br><a href='https://advising.soc.northwestern.edu/academic_modules/media-arts-and-game-design/'>media arts and game design capstone<a><br><a href='https://wiki.communitydata.science/Ecology_of_Online_Communities/Community_rules_study'>cdsc rules study<a><br><a href='https://studio.knightlab.com/projects/live-streaming/'>knight lab livestreaming<a><br><a href='https://magic.gg/news/magic-30-tickets-and-events-details#Program'>wotc project management intern<a>");
 
 	const l7 = document.querySelector("#l7");
 	l7.setAttribute("data-content", "<h1>social</h1>haha content<br><br><a href='https://twitch.tv/carroh'>twitch<a><a href='https://are.na/carro'>are.na<a><a href='https://twitter.com/carrohno'>twitter<a>");
 
 	const l8 = document.querySelector("#l8");
-	l8.setAttribute("data-content", "<h1>stuff i like</h1><br><br><a href='https://www.sunsama.com'>sunsama<a><a href='https://reboothq.substack.com'>reboot<a><a href='https://teamfighttactics.leagueoflegends.com'>tft<a>");
+	l8.setAttribute("data-content", "<h1>stuff i like</h1><br><br><a href='https://www.sunsama.com'>sunsama<a><a href='https://reboothq.substack.com'>reboot<a><a href='https://teamfighttactics.leagueoflegends.com'>tft<a><a href='https://www.tana.inc'>tana<a>");
 
 	const l9 = document.querySelector("#l9");
 	l9.setAttribute("data-content", "<h1>contact</h1>email: uwu@u.northwestern.edu<br>discord: carro#0001");
