@@ -14,7 +14,7 @@ window.onload = () => {
 	l2.setAttribute("data-content", "<h1>resume</h1>sorry no gamers<br><a href='https://www.leagueoflegends.com/en-us/'>view</a>");
 
 	const l3 = document.querySelector("#l3");
-	l3.setAttribute("data-content", "<h1>recent fun stuff</h1>visited christkindlmarket<br><br>learned to bake brioche over thanksgiving break<br><br>spent ~4 months learning about gamecube controller modding and made a custom gcc for my partner<br><br>spent ~6 hours teaching myself advanced tableau");
+	l3.setAttribute("data-content", "<h1>gccs</h1><img src='https://i.imgur.com/yVvLZIn.png' <br>gamecube controllers</a><br>i made these :-)");
 
 	const l4 = document.querySelector("#l4");
 	l4.setAttribute("data-content", "<h1>bun</h1><img src='https://i.imgur.com/G0f9JFF.gif' alt='animated image of the drawing tool in use. the user selects the brushes and draws the body, ears, and face of a cartoon bunny'><a href='https://bun.carro.dev'><br>view</a><br>a project for cs396: generative methods which uses p5js to make brushes for people to easily create bunnies (or other creatures). the project uses different techniques, including beginShape and endShape, delayed stacked shapes, randomly generated faces, and color / brush size pickers.");
